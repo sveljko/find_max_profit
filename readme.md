@@ -1,9 +1,9 @@
-For the definition of the problem to solve, see [](challenge.md).
+The problem to solve is described [here](challenge.md).
 
 The function to find the maximum profit is defined in
 [source](find_max_profit.cpp) with the [header](find_max_profit.hpp).
 
-The unit tests are in [](find_max_profit.t.cpp).
+The unit tests are [here](find_max_profit.t.cpp).
 
 There's no Makefile or some such thing, since there's nothing
 special here, just compile the unit test and the module under
